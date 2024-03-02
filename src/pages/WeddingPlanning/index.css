@@ -1,0 +1,240 @@
+.container-header{
+    width: 100%;
+    height: 550px;
+    background-color: rgb(0, 208, 255);
+    margin-top: -23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-h1-h3{
+    width: 1140px;
+    height: 142px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.header-h1-h3 h1{
+    color: #ffffff;
+
+    font-size: 50px;
+    font-weight: 400;
+    text-transform: capitalize;
+    line-height: 1.4em;
+}
+.header-h1-h3 h3{
+    color: #ffffff;
+
+    font-size: 20px;
+    font-weight: 300;
+}
+.container-colunm-paragraph{
+    width: 100%;
+    height: 675px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.colunm-paragraph{
+    width: 730px;
+    height: 419px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.colunm-paragraph h1{
+    color: #00DAFC;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.colunm-paragraph h2{
+    color: #042032;
+
+    font-size: 40px;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 56px;
+}
+.container-boder-icon{
+    width: 100%;
+    height: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sepera-ico-weddiing{
+    width: 900px;
+    height: 117px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: aqua;
+}
+.div-h2 h2 {
+    font-size: 35px;
+  
+    color: black;
+}
+.container-img-text-colunm{
+    width:100%;
+    height: 670px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div-text{
+    width: 570px;
+    height: 615px;
+}
+.div-img{
+    width: 570px;
+    height: 615px;
+}
+.div-text-colunm{
+    width: 500px;
+    height: 615px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.div-h3{
+    width: 440px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    font-size: 28px;
+}
+.div-p1{
+    width:440px;
+    height: 150px; 
+    text-align: left;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+
+}
+.div-p2{
+    width:440px;
+    height: 192px;
+  text-align: left;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+}
+.div-text-colunm-btn {
+    width: 500px;
+    height: 615px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    float: right;
+}
+.div-h3-btn {
+    width: 440px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    font-size: 29px;
+}
+.container-img-text-colunm-btn {
+    width: 100%;
+    height: 670px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.div-p-btn {
+    width: 730px;
+    height: 106px;
+    color: black;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    line-height: 30px;
+}
+.div-sepera-ico-weddiing {
+    width: 900px;
+    height: 117px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: aqua;
+    margin-top: 300px;
+}
+.container-three-paragraph {
+    width: 100%;
+    display: flex;
+    margin-top: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+.three-paragraph-one{
+    width: 379px;
+    height: 510px;
+}.div-paragraph-one-btn{
+    width: 339px;
+    height: 450px;
+    border: 1px solid #cece2b;
+    background-color: #f3f3f3;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, )
+}
+
+.div-css-buttom{
+    width: 180px;
+    height: 10px;
+    border-bottom: 1px solid aqua;
+}
+.div-li-colunm ul li {
+    list-style-type: disc;
+}
+
+.div-h3-css-buttom{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 90px;
+}
+.div-li-colunm {
+    font-size: 18px;
+    line-height: 25px;
+}
+.container-overlay{
+    width: 100%;
+    background-color:yellowgreen;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center; /* Thay đổi cách căn chỉnh ảnh trong div */
+  align-items: center; /* Thay đ*/
+}
+.container-overlay img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.wrap-h2-div {
+    position: absolute;
+    text-align: center;
+}
+.button{
+    width: 200px;
+    height: 52px;
+    font-size: 18px;
+    margin-top: 20px;
+    background-color: #042032;
+    color: white;
+
+}

@@ -1,0 +1,426 @@
+.header-img {
+    width: 100%;
+}
+
+body {
+    font-family: 'roboto', serif !important;
+    font-size: 18px;
+}
+
+.silder_btn {
+    padding: 0 500px;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+h1.css_h1 {
+    color: #FDB913;
+
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+h1.css_h1btn {
+    color: #042032;
+    font-size: 40px;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 56px;
+    text-align: center;
+}
+
+.silder_btn p {
+    font-size: 16px;
+
+}
+
+.silder_btn1 button {
+    padding: 15px 70px;
+    font-size: 15px;
+    background-color: #fff;
+    background-color: #042032DE;
+    border-radius: 3px 3px 3px 3px;
+    padding: 10px 10px 10px 10px;
+    font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+}
+
+.silder_btn1:hover button {
+    color: #FDB913;
+    border: #FDB913 2px solid;
+}
+
+.silder_btn1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.silder_btn2 {
+
+    height: 600px;
+    /* background-color: green; */
+    display: flex;
+    margin-top: 230px;
+    position: relative;
+
+}
+
+.container-silder_btn2 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.silder_text {
+    width: 684px;
+    height: 286px;
+    position: relative;
+    top: 90px;
+}
+
+.silder_img {
+    width: 455px;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #f3f3f3;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.divs_img {
+    display: flex;
+}
+
+.div_img_text {
+    width: 35%;
+    position: relative;
+    left: 60px;
+    top: -25px;
+}
+
+.div_img_text1 {
+    position: relative;
+    left: 75px;
+}
+
+.silder_btn3 {
+
+    width: 76%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.container_silder_btn3 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.silder_btn3 {
+    width: 75%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.silder_btn_css {
+    width: 350px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: red;
+    line-height: 20px;
+    background-color: #f3f3f3;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.silder_btn_css button {
+    background-color: #042032DE;
+    border-radius: 3px 3px 3px 3px;
+    padding: 10px 10px 10px 10px;
+    font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+}
+
+.silder_btn_css:hover button {
+    color: #FDB913;
+}
+
+
+#content {
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+}
+
+.content_text {
+    width: 700px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.content_text h1 {
+    color: #fdb913;
+
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.content_text h2 {
+
+    font-size: 40px;
+    line-height: 46px;
+    text-transform: uppercase;
+}
+
+.content_img {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-left: 40px;
+}
+
+.content_img a {
+
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: capitalize;
+    letter-spacing: 0;
+}
+
+.div_img:hover a {
+    color: #c6cf0d;
+
+}
+
+.div_img:hover img {
+    background-color: #f3f3f3;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0);
+    opacity: 0.8;
+}
+
+.img_css {
+    width: 414.35px;
+    position: relative;
+    height: 245.56px;
+    top: -20px;
+}
+
+.div_img {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 340px;
+    width: 413px;
+}
+
+.content_img_text {
+    border: 1px solid #e5e5e5;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 30px;
+
+}
+
+.content_buttom {
+    display: flex;
+    justify-content: center;
+    height: 70px;
+    margin: 85px;
+}
+
+div#button_css {
+    display: flex;
+    width: 340px;
+    height: 80px;
+    border: 2px solid;
+    border-radius: 10px;
+    justify-content: center
+}
+
+div#button_css>button {
+    border-style: none;
+    font-size: 17px;
+    background-color: #fff;
+}
+
+div#button_css:hover {
+    color: #FDB913;
+}
+
+div#button_css:hover button {
+    color: #FDB913;
+}
+
+.content_btn1 {
+
+    height: 830px;
+    background-color: green;
+}
+
+.btn1_img {
+    width: 100%;
+    height: 830px;
+}
+
+.btn1_img_text {
+    width: 592px;
+    height: 830px;
+    /* background-color: aqua; */
+    position: relative;
+    top: -821px;
+    display: flex;
+    left: 600px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.content_btn2 {
+    width: 100%;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.content_btn2_img {
+    display: flex;
+    margin-top: -105px;
+
+}
+
+.img_btn2_css {
+    width: 400px;
+    height: 400px;
+}
+
+.div_btn2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px 10px;
+}
+
+.btn2_button {
+    width: 100%;
+    height: 80px;
+    margin: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: -87px;
+}
+
+.div_btn2 a {
+    margin-top: 18px;
+    font-size: 20px;
+}
+
+.div_btn2:hover a {
+    color: #c4cd12;
+}
+
+.a_button {
+    display: flex;
+    width: 340px;
+    height: 80px;
+    border: 2px solid;
+    justify-content: center;
+}
+
+.a_button>button {
+    border-style: none;
+    font-size: 17px;
+    background-color: #fff;
+}
+
+.img_btn2_text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.img_btn2_red {
+    margin: 0 80px;
+}
+
+.img_btn2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.divs_img:hover {
+    color: #FDB913;
+}
+
+.mid {
+    /* display: flex; */
+    text-align: center;
+}
+
+@media only screen and (max-device-width: 480px) {
+    .silder_btn {
+        /* position: relative; */
+        padding: 0 50px;
+    }
+
+    .container-icon1 {
+        display: block;
+    }
+
+    .silder_img {
+        position: relative;
+        right: 275px;
+        width: fit-content;
+    }
+    .silder_btn3 {
+        display: block;
+    }
+}
+
+.container-icon1 .css-onkibi {
+    width: 1.6em;
+    height: 1.6em;
+}
+
+.container-icon1 {
+    display: none;
+}
